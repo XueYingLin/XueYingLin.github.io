@@ -73,6 +73,10 @@ input, select, textarea {
 }
 
 /* Basic */
+body{
+	margin: 50px;
+	border: 1px solid grey;
+}
 
 	@-ms-viewport {
 		width: device-width;
